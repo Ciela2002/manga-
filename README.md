@@ -29,7 +29,7 @@ Manga+ is a lightweight and elegant application designed to read manhwas, webtoo
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/manga-plus.git
+git clone https://github.com/Ciela2002/manga-.git
 cd manga-plus
 
 # Install dependencies
