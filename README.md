@@ -4,8 +4,6 @@
 
 Manga- is a lightweight application designed to read manhwas, webtoons, and comics in a vertical scrolling format. The application offers a simple reading experience similar to online platforms, but for your local collections.
 
-![Manga- Screenshot](docs/images/screenshot.png)
-
 ## ✨ Features
 
 - **Intuitive navigation** through your manhwa and comics folders
