@@ -1,6 +1,6 @@
 # Contribution Guide
 
-Thank you for your interest in contributing to Manga+! This document provides guidelines for contributing to this project.
+Thank you for your interest in contributing to Manga-! This document provides guidelines for contributing to this project.
 
 ## How to Contribute
 
@@ -17,7 +17,7 @@ Thank you for your interest in contributing to Manga+! This document provides gu
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/manga-plus.git
+git clone https://github.com/Ciela2002/manga-.git
 cd manga-plus
 
 # Install dependencies
@@ -30,8 +30,7 @@ pip install -r requirements.txt
 manga-plus/
 ├── main.py           # Main application entry point
 ├── requirements.txt  # Project dependencies
-├── docs/             # Documentation and resources
-│   └── images/       # Images for documentation
+├── CONTRIBUTING.md   # Contribution guide
 ├── LICENSE           # Project license
 └── README.md         # Main readme
 ```
@@ -80,4 +79,4 @@ If you have questions or need help, feel free to:
 - Open an issue on GitHub
 - Contact me on Discord: nanami2002
 
-Thank you for helping make Manga+ better for all manhwa fans! 
+Thank you for helping make Manga- better for all manhwa fans! 
