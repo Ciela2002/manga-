@@ -65,7 +65,7 @@ manga-plus/
 
 Here are some feature ideas you could add:
 
-- Support for more image/video formats
+- Support for more image formats
 - Improved user interface
 - Favorites and bookmarks
 - Library manager
