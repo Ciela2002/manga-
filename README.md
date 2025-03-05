@@ -1,10 +1,10 @@
-# Manga+ | Manhwa and Comics Reader
+# Manga- | Manhwa and Comics Reader
 
 ![License](https://img.shields.io/badge/licence-MIT-blue) ![Language](https://img.shields.io/badge/Python-3.10-yellow) ![Interface](https://img.shields.io/badge/Interface-Tkinter-green)
 
-Manga+ is a lightweight and elegant application designed to read manhwas, webtoons, and comics in a vertical scrolling format. The application offers a seamless reading experience similar to online platforms, but for your local collections.
+Manga- is a lightweight and elegant application designed to read manhwas, webtoons, and comics in a vertical scrolling format. The application offers a seamless reading experience similar to online platforms, but for your local collections.
 
-![Manga+ Screenshot](docs/images/screenshot.png)
+![Manga- Screenshot](docs/images/screenshot.png)
 
 ## ✨ Features
 
