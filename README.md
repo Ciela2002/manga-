@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/licence-MIT-blue) ![Language](https://img.shields.io/badge/Python-3.10-yellow) ![Interface](https://img.shields.io/badge/Interface-Tkinter-green)
 
-Manga- is a lightweight and elegant application designed to read manhwas, webtoons, and comics in a vertical scrolling format. The application offers a seamless reading experience similar to online platforms, but for your local collections.
+Manga- is a lightweight application designed to read manhwas, webtoons, and comics in a vertical scrolling format. The application offers a simple reading experience similar to online platforms, but for your local collections.
 
 ![Manga- Screenshot](docs/images/screenshot.png)
 
@@ -14,14 +14,13 @@ Manga- is a lightweight and elegant application designed to read manhwas, webtoo
 - **Smooth navigation** with seamless vertical scrolling
 - **Smart zoom** to adapt to all screens
 - **Full-screen mode** for total immersion
-- **Modern interface** with dark theme
 - **Automatic organization** of your files in natural order
 
 ## 🚀 Installation
 
 ### Method 1: Executable (Windows)
 
-1. Download the latest version from the [Releases](https://github.com/your-username/manga-plus/releases) section
+1. Download the latest version from the [Releases](https://github.com/Ciela2002/manga-/releases) section
 2. Extract the ZIP contents
 3. Double-click on `ManhwaReader.exe`
 
@@ -70,11 +69,10 @@ python main.py
 ## ⚙️ Project Structure
 
 ```
-manga-plus/
+manga-/
 ├── main.py           # Main entry point of the application
 ├── requirements.txt  # Project dependencies
-├── docs/             # Documentation and resources
-│   └── images/       # Images for documentation
+├── CONTRIBUTING.md   # Contribution docs
 ├── LICENSE           # Project license
 └── README.md         # This file
 ```
@@ -103,4 +101,4 @@ Nanami - Discord: nanami2002
 
 ---
 
-Made with ❤️ for all manhwa and webtoon enthusiasts 
+Made with ❤️ for all manhwa and webtoon enthusiasts :)!
